@@ -6,10 +6,10 @@ Explorando Colaboração e Markdown
 **O Git é um conceito essencial no mercado de trabalho atualmente**
 por isso sempre reforçamos sua importância em nossa metodologia educacional. Por isso, todo código-fonte desenvolvido durante este conteúdo foi versionado no seguinte endereço para que você possa consultá-lo a qualquer momento:
 
-| Alinhado à esquerda | Centralizado | Alinhado à direita |
+| Caminho | Percorrido | Até Aqui |
 | :-------- | :-------: | --------: |
-| Maçãs | Vermelho | 5000 |
-| Bananas | Amarelo| 75 |
+| 1. Príncipios do Git e GitHub | 2. Autenticações | 3. Colaboração no Github |
+| 4. Formatação com Markdown | 5. Explorando Colaboração e Markdown| 6. Desafio de Código|
 
 
  ---
