@@ -12,4 +12,4 @@ por isso sempre reforçamos sua importância em nossa metodologia educacional. P
 | 4. Formatação com Markdown | 5. Explorando Colaboração e Markdown| 6. Desafio de Código|
 
 
- ---
+Estou **muito** animado com os curso da _Digital Innovation one_.
